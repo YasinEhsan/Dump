@@ -13,7 +13,7 @@
 1. git status (op)
 2. git add .
 3. git status (op)
-4. git commit -m "Wrote name"
+4. git commit -m *"Wrote name"*
 5. git push origin master
 
 # branching (detached head)
@@ -21,7 +21,8 @@
 2. git checkout *branch name*
 3. git add .
 4. git commit -m ""
-5. git push origin *branch name*
+5. git push **OR...**
+-  git push upstream *branch name*
 
 
 
