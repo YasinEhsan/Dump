@@ -1,0 +1,107 @@
+<!DOCTYPE HTML> 
+<!--yasin ehsan-->
+<html>
+	<head>
+        <link type = "text/css" rel = "stylesheet" href = "yea.css"/>
+		<title> Young Etrepranuers Association </title>
+		<style>
+
+		
+
+
+		</style>
+		<script>
+
+			var slideimages = new Array() // create new array to preload images
+			slideimages[0] = new Image() // create new instance of image object
+			slideimages[0].src = "pap/wwss.jpg"
+			slideimages[1] = new Image()
+			slideimages[1].src = "images/board.png" 
+			slideimages[2] = new Image()
+			slideimages[2].src = "images/post fm.jpeg"
+			slideimages[3] = new Image()
+			slideimages[3].src = "images/first meet.jpeg"
+			slideimages[4] = new Image()
+			slideimages[4].src = "images/club fair.jpeg"
+			slideimages[5] = new Image()
+			slideimages[5].src = "images/st2.jpg"
+			
+			
+
+		</script>	
+	</head>
+	<body>
+		
+			<div class= "fire">The Young Entreprenuers Association <span> of Brooklyn Tech </span> </div> 
+		
+			<ul>
+			  <li><a class="active" href="index.html">Home</a></li>
+			  <li><a href="synopsis.html">Synopsis</a></li>
+			  <li><a href="exec.html">Executives</a></li>
+			  <li><a href = "events.html">Events</a></li>
+			  <li><a href = "alumni.html">Alumni</a></li>
+			  <li><a href = "donate.html">Donate</a></li>
+			</ul>
+
+			</br>
+			<h3>
+				<img src="pap/wwss.jpg" id="slide" width="650" height="420"/>
+				
+			</h3>
+
+			
+			<h2><img src ="images/logo.jpg"/></h2>
+		
+	
+			</br> 
+
+			
+			
+		   
+			<span class="qoutes">
+				
+			        <p class="Qthree">
+			            "85% of your financial sucess is due to <span>your personality</span> and ability to <span>communicate, negotiate and lead</span>. Shockingly, only 15% is due to technical knowledge."
+			        </p>
+			   
+			    <p class ="Qone">
+			    	"<span>Entrprenuership</span> is living a few years of your life like <span>most people won't</span> so you can spend the rest of your life like <span>most people can't</span>."
+			    </p>
+
+			     <p class ="Qtwo">
+			    	"Why don't you ever see Lamborghini commercials? </br> It's because the people who can afford them <span> aren't sitting around watching TV</span>."
+			    </p>
+
+
+			</span>
+
+	
+
+
+
+
+
+
+	</body>
+
+		<script type="text/javascript">
+
+			var step=0
+
+			function slideit(){
+				 if (!document.images)
+				  return
+				 document.getElementById('slide').src = slideimages[step].src
+				 if (step<5)
+				  step++
+				 else
+				  step=0
+				 setTimeout("slideit()",2500)
+			}
+
+			slideit()
+
+		</script>
+</html>
+
+
