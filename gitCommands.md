@@ -4,6 +4,9 @@
 - blockqoute with arrow
 - emphasize with bold + cap
 
+# terminal 101
+1. mv old-name new-name (Rename)
+
 # clone 101
 1. git clone (paste ssh)
 2. git commit -a -m "added MongoDB"
