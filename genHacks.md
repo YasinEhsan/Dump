@@ -2,6 +2,7 @@
 1. npm i (downloads new pack)
 2. npm run dev
 3. copy http link localhost
+4. ctrl C 
 
 
 
