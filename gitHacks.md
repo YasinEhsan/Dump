@@ -1,13 +1,4 @@
-# Markdown Hacks
-- Links types: Section, project file, href
-- three backtics for code
-- blockqoute with arrow
-- emphasize with bold + cap
-
-# terminal 101
-1. mv old-name new-name (Rename)
-
-#git GOAT
+# git GOAT
 1. git checkout -- *file name* (disgard repo file changes)
 
 # clone 101
@@ -29,9 +20,6 @@
 4. git commit -m ""
 5. git push **OR...**
 -  git push upstream *branch name*
-
-
-
 
 # general
 1. git status
