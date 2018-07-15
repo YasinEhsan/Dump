@@ -1,22 +1,23 @@
 
+
+
 # Top Java Projects
+
 
 ## *Contents*
 * [links](#links)
-* [Tic Tac Toe](#tic-tac-toe)
+* [general git notes]()
 * [Cumulative Data Storage](#cumulative-data-storage)
 
 ---
-
+## general git notes
+- git checkout -- *file name* (disgard repo file changes)
 
 ## npm running server
 1. npm i (downloads new pack)
 2. npm run dev
 3. copy http link localhost
 4. ctrl C
-
-## git GOAT
-1. git checkout -- *file name* (disgard repo file changes)
 
 ## clone 101
 1. git clone (paste ssh)
@@ -41,7 +42,6 @@
 ## general
 1. git status
 2. git log -3 //past three commits
-
 
 
 ## Markdown Hacks
