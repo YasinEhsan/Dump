@@ -1,11 +1,6 @@
+# git
 
-
-
-# Top Java Projects
-
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [Top Java Projects](#top-java-projects)
+	- [d](#d)
 	- [general git notes](#general-git-notes)
 	- [npm running server](#npm-running-server)
 	- [clone 101](#clone-101)
