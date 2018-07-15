@@ -1,3 +1,11 @@
+# npm running server
+1. npm i (downloads new pack)
+2. npm run dev
+3. copy http link localhost
+
+
+
+
 # Markdown Hacks
 - Links types: Section, project file, href
 - three backtics for code
