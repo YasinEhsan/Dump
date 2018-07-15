@@ -7,6 +7,9 @@
 # terminal 101
 1. mv old-name new-name (Rename)
 
+#git GOAT
+1. git checkout -- *file name* (disgard repo file changes)
+
 # clone 101
 1. git clone (paste ssh)
 2. git commit -a -m "added MongoDB"
