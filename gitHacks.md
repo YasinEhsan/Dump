@@ -3,11 +3,20 @@
 
 # Top Java Projects
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-## *Contents*
-* [links](#links)
-* [general git notes]()
-* [Cumulative Data Storage](#cumulative-data-storage)
+- [Top Java Projects](#top-java-projects)
+	- [general git notes](#general-git-notes)
+	- [npm running server](#npm-running-server)
+	- [clone 101](#clone-101)
+	- [pushing](#pushing)
+	- [branching (detached head)](#branching-detached-head)
+	- [general](#general)
+	- [Markdown Hacks](#markdown-hacks)
+	- [Terminal 101](#terminal-101)
+	- [Links](#links)
+
+<!-- /TOC -->
 
 ---
 ## general git notes
