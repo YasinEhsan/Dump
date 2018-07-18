@@ -1,6 +1,8 @@
 # git
 
-	- [d](#d)
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [git](#git)
 	- [general git notes](#general-git-notes)
 	- [npm running server](#npm-running-server)
 	- [clone 101](#clone-101)
@@ -9,6 +11,9 @@
 	- [general](#general)
 	- [Markdown Hacks](#markdown-hacks)
 	- [Terminal 101](#terminal-101)
+	- [Atom general](#atom-general)
+	- [Atom markdown](#atom-markdown)
+	- [Atom terminal](#atom-terminal)
 	- [Links](#links)
 
 <!-- /TOC -->
