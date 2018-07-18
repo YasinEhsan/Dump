@@ -59,6 +59,22 @@
 2. rm (delete file permanently)
 3. rm -rf (delete folder permanently)
 
+## Atom general
+1. cmd shift p (Search)
+2.
+
+## Atom markdown
+1. ctrl opt c (markdown TOC)
+2. ctrl shift m (run markdown)
+3. ctrl op r
+
+## Atom terminal
+1. ctrl tilda key (open terminal)
+2. cmd shift T (new terminal)
+3. cmd option F (terminal focus)
+4. cmd shift x (delete terminal)
+5. cmd shift k (switch terminal)
+
 
 ## Links
 - [Markdown Notes](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Notes")
