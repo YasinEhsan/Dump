@@ -1,8 +1,6 @@
-
-
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-	- [general git notes](#general-git-notes)
+	- [general git Notes](#general-git-notes)
 	- [npm running server](#npm-running-server)
 	- [clone 101](#clone-101)
 	- [pushing](#pushing)
@@ -18,7 +16,7 @@
 <!-- /TOC -->
 
 ---
-## general git notes
+## general git Notes
 - git checkout -- *file name* (disgard repo file changes)
 
 ## npm running server
