@@ -1,8 +1,8 @@
-# Contents
+# Notes
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Contents](#contents)
+- [Notes](#notes)
 	- [general git notes](#general-git-notes)
 	- [npm running server](#npm-running-server)
 	- [clone 101](#clone-101)
@@ -17,7 +17,6 @@
 	- [Links](#links)
 
 <!-- /TOC -->
-works
 
 
 ---
@@ -71,9 +70,9 @@ works
 2.
 
 ## Atom markdown
-1. ctrl opt c (markdown TOC)
+1. ctrl opt c (toggle first, then add TOC)
 2. ctrl shift m (run markdown)
-3. ctrl op r
+3. ctrl op r (remove TOC)
 
 ## Atom terminal
 1. ctrl tilda key (open terminal)
