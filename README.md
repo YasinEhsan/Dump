@@ -85,5 +85,3 @@
 ## Links
 - [Markdown Notes](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Notes")
 - [Github Notes Mac](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf "Github Notes")
-
-testing waters 
